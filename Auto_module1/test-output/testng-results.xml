@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-28T12:54:53 IST" name="Default suite" finished-at="2024-09-28T12:54:55 IST" duration-ms="2698">
+    <groups>
+    </groups>
+    <test started-at="2024-09-28T12:54:53 IST" name="Default test" finished-at="2024-09-28T12:54:55 IST" duration-ms="2698">
+      <class name="POM_Runner.POM_FB_Login2_Runner">
+        <test-method signature="Login_click()[pri:0, instance:POM_Runner.POM_FB_Login2_Runner@7fee8714]" started-at="2024-09-28T12:54:53 IST" name="Login_click" finished-at="2024-09-28T12:54:55 IST" duration-ms="2653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_click -->
+      </class> <!-- POM_Runner.POM_FB_Login2_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
